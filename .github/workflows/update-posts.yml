@@ -3,7 +3,7 @@ name: Update readme with blog posts
 
 on: 
   schedule:
-    - cron: 0/5 * * * *
+    - cron: '* * * * *'
     
 jobs:
   update:
