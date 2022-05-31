@@ -26,9 +26,9 @@
 
 ## 📙 Recent Blog Posts
 <!--START_SECTION:feed-->
+* [Tips for Junior Developers](https:&#x2F;&#x2F;sahansera.dev&#x2F;tips-and-advices-for-jnr-devs&#x2F;)
 * [Building a gRPC Client in .NET](https:&#x2F;&#x2F;sahansera.dev&#x2F;building-grpc-client-dotnet&#x2F;)
 * [Building a gRPC Client in Go](https:&#x2F;&#x2F;sahansera.dev&#x2F;building-grpc-client-go&#x2F;)
 * [Building a gRPC Server in .NET](https:&#x2F;&#x2F;sahansera.dev&#x2F;building-grpc-server-dotnet&#x2F;)
 * [Building a gRPC Server in Go](https:&#x2F;&#x2F;sahansera.dev&#x2F;building-grpc-server-go&#x2F;)
-* [Introduction to gRPC](https:&#x2F;&#x2F;sahansera.dev&#x2F;introduction-to-grpc&#x2F;)
 <!--END_SECTION:feed-->
