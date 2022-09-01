@@ -26,9 +26,9 @@
 
 ## 📙 Recent Blog Posts
 <!--START_SECTION:feed-->
+* [Setting up a local Apache Kafka instance for testing](https:&#x2F;&#x2F;sahansera.dev&#x2F;setting-up-kafka-locally-for-testing&#x2F;)
 * [Adding intelligence to React Apps with Azure Cognitive Services](https:&#x2F;&#x2F;sahansera.dev&#x2F;adding-intelligence-react-azure-cognitive&#x2F;)
 * [Tips for Junior Developers](https:&#x2F;&#x2F;sahansera.dev&#x2F;tips-and-advices-for-jnr-devs&#x2F;)
 * [Building a gRPC Client in .NET](https:&#x2F;&#x2F;sahansera.dev&#x2F;building-grpc-client-dotnet&#x2F;)
 * [Building a gRPC Client in Go](https:&#x2F;&#x2F;sahansera.dev&#x2F;building-grpc-client-go&#x2F;)
-* [Building a gRPC Server in .NET](https:&#x2F;&#x2F;sahansera.dev&#x2F;building-grpc-server-dotnet&#x2F;)
 <!--END_SECTION:feed-->
