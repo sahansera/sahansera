@@ -26,9 +26,9 @@ I've been working in the industry as a software engineer and a consultant for al
 
 ## 📙 Recent Blog Posts
 <!--START_SECTION:feed-->
-* [Basics of Apache Kafka - An Overview](https:&#x2F;&#x2F;sahansera.dev&#x2F;introduction-to-apache-kafka&#x2F;)
-* [Serverless Go with Azure Functions and GitHub Actions](https:&#x2F;&#x2F;sahansera.dev&#x2F;serverless-go-with-azure-functions-github-actions&#x2F;)
-* [Deploying a .NET gRPC Server on Azure App Service](https:&#x2F;&#x2F;sahansera.dev&#x2F;deploying-dotnet-grpc-service-azure-app-services&#x2F;)
-* [Setting up a local Apache Kafka instance for testing](https:&#x2F;&#x2F;sahansera.dev&#x2F;setting-up-kafka-locally-for-testing&#x2F;)
-* [Adding intelligence to React Apps with Azure Cognitive Services](https:&#x2F;&#x2F;sahansera.dev&#x2F;adding-intelligence-react-azure-cognitive&#x2F;)
+* [Basics of Apache Kafka - An Overview](https:&#x2F;&#x2F;www.sahansera.dev&#x2F;introduction-to-apache-kafka&#x2F;)
+* [Serverless Go with Azure Functions and GitHub Actions](https:&#x2F;&#x2F;www.sahansera.dev&#x2F;serverless-go-with-azure-functions-github-actions&#x2F;)
+* [Deploying a .NET gRPC Server on Azure App Service](https:&#x2F;&#x2F;www.sahansera.dev&#x2F;deploying-dotnet-grpc-service-azure-app-services&#x2F;)
+* [Setting up a local Apache Kafka instance for testing](https:&#x2F;&#x2F;www.sahansera.dev&#x2F;setting-up-kafka-locally-for-testing&#x2F;)
+* [Adding intelligence to React Apps with Azure Cognitive Services](https:&#x2F;&#x2F;www.sahansera.dev&#x2F;adding-intelligence-react-azure-cognitive&#x2F;)
 <!--END_SECTION:feed-->
