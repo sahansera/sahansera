@@ -21,8 +21,9 @@
 I've been working in the industry as a software engineer and a consultant for almost a decade now in various deciplines. I mainly work with Go, Python, TypeScript and .NET nowadays, but always on the lookout to learn new things. I also have a Master's in Data Science from the [University of Illinois Urbana-Champaign](https://cs.illinois.edu/). During my free time, I run my blog at [sahansera.dev](https://sahansera.dev/) where I share my learnings and tutorials to help developers around the world.
 
 - 📝 I blog here: https://sahansera.dev/
-- 💬  Ask me about my favorite programming language
-- 📫 Follow me on Twitter [@_SahanSera](https://twitter.com/_SahanSera) and LinkedIn [@SahanSerasinghe](https://www.linkedin.com/in/sahanserasinghe/)
+- 🧑‍💻 You can find [here](https://sahansera.dev/projects/) some of the cool the things I've built
+- 🎙️ I also [speak at meetups and conferences](https://sahansera.dev/talks/) whenever I get a chance
+- 📫 Find me on Twitter [@_SahanSera](https://twitter.com/_SahanSera) and LinkedIn [@SahanSerasinghe](https://www.linkedin.com/in/sahanserasinghe/)
 
 ## 📙 Recent Blog Posts
 <!--START_SECTION:feed-->
