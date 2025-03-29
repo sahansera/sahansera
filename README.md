@@ -27,9 +27,9 @@ I've been working in the industry as a software engineer and a consultant for al
 
 ## 📙 Recent Blog Posts
 <!--START_SECTION:feed-->
+* [Streaming APIs with FastAPI and Next.js — Part 2](https:&#x2F;&#x2F;www.sahansera.dev&#x2F;streaming-apis-python-nextjs-part2&#x2F;)
 * [Streaming APIs with FastAPI and Next.js — Part 1](https:&#x2F;&#x2F;www.sahansera.dev&#x2F;streaming-apis-python-nextjs-part1&#x2F;)
 * [My plans for sahansera.dev in 2024](https:&#x2F;&#x2F;www.sahansera.dev&#x2F;my-plans-for-sahanseradev-2024&#x2F;)
 * [Basics of Apache Kafka - An Overview](https:&#x2F;&#x2F;www.sahansera.dev&#x2F;introduction-to-apache-kafka&#x2F;)
 * [Serverless Go with Azure Functions and GitHub Actions](https:&#x2F;&#x2F;www.sahansera.dev&#x2F;serverless-go-with-azure-functions-github-actions&#x2F;)
-* [Deploying a .NET gRPC Server on Azure App Service](https:&#x2F;&#x2F;www.sahansera.dev&#x2F;deploying-dotnet-grpc-service-azure-app-services&#x2F;)
 <!--END_SECTION:feed-->
