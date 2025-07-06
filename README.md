@@ -27,9 +27,9 @@ I've been working in the industry as a software engineer and a consultant for al
 
 ## 📙 Recent Blog Posts
 <!--START_SECTION:feed-->
+* [How Does the Python Virtual Environment Work?](https:&#x2F;&#x2F;www.sahansera.dev&#x2F;how-does-python-venv-work&#x2F;)
 * [Deep Dive - How Chunked Transfer Encoding Works](https:&#x2F;&#x2F;www.sahansera.dev&#x2F;understanding-chunked-transfer-encoding&#x2F;)
 * [Upgrading sahansera.dev to Gatsby 5](https:&#x2F;&#x2F;www.sahansera.dev&#x2F;upgrading-gatsby-5&#x2F;)
-* [Streaming APIs with FastAPI and Next.js — Part 2](https:&#x2F;&#x2F;www.sahansera.dev&#x2F;streaming-apis-python-nextjs-part2&#x2F;)
-* [Streaming APIs with FastAPI and Next.js — Part 1](https:&#x2F;&#x2F;www.sahansera.dev&#x2F;streaming-apis-python-nextjs-part1&#x2F;)
-* [My plans for sahansera.dev in 2024](https:&#x2F;&#x2F;www.sahansera.dev&#x2F;my-plans-for-sahanseradev-2024&#x2F;)
+* [Streaming APIs with FastAPI and Next.js - Part 2](https:&#x2F;&#x2F;www.sahansera.dev&#x2F;streaming-apis-python-nextjs-part2&#x2F;)
+* [Streaming APIs with FastAPI and Next.js - Part 1](https:&#x2F;&#x2F;www.sahansera.dev&#x2F;streaming-apis-python-nextjs-part1&#x2F;)
 <!--END_SECTION:feed-->
