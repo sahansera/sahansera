@@ -18,7 +18,7 @@
  </a>
 </p>
 
-I've been working in the industry as a software engineer and a consultant for almost a decade now in various disciplines. I mainly work with Go, Python, TypeScript and .NET nowadays, but always on the lookout to learn new things. I also have a Master's in Data Science from the [University of Illinois Urbana-Champaign](https://cs.illinois.edu/). During my free time, I run my blog at [sahansera.dev](https://sahansera.dev/) where I share my learnings and tutorials to help developers around the world.
+I've been working in the industry as a software engineer and a consultant for more than a decade in various disciplines. I mainly work with Go, Python, TypeScript and .NET nowadays, but always on the lookout to learn new things. I also have a Master's in Data Science from the [University of Illinois Urbana-Champaign](https://cs.illinois.edu/). During my free time, I run my blog at [sahansera.dev](https://sahansera.dev/) where I share my learnings and tutorials to help developers around the world.
 
 - 📝 I blog here: https://sahansera.dev/
 - 🧑‍💻 You can find [here](https://sahansera.dev/projects/) some of the cool things I've built
