@@ -27,7 +27,7 @@ I've been working in the industry as a software engineer and a consultant for mo
 
 ## 📙 Recent Blog Posts
 <!--START_SECTION:feed-->
-* [The Acknowledgment Gap - When &quot;Accepted&quot; Doesn&#39;t Mean &quot;Done&quot;](https:&#x2F;&#x2F;www.sahansera.dev&#x2F;the-acknowledgment-gap&#x2F;)
+* [The Acknowledgment Gap - How Event-Driven Systems Lose Messages Without Errors](https:&#x2F;&#x2F;www.sahansera.dev&#x2F;the-acknowledgment-gap&#x2F;)
 * [Introducing gh-weekly-updates - Automate Your Weekly GitHub Impact Summaries](https:&#x2F;&#x2F;www.sahansera.dev&#x2F;introducing-gh-weekly-updates&#x2F;)
 * [Deploying GitHub Self-Hosted Runners on Your Home Kubernetes Cluster with ARC](https:&#x2F;&#x2F;www.sahansera.dev&#x2F;github-self-hosted-runners-on-kubernetes-home-lab&#x2F;)
 * [Building a Home Lab Kubernetes Cluster with Old Hardware and k3s](https:&#x2F;&#x2F;www.sahansera.dev&#x2F;building-home-lab-kubernetes-cluster-old-hardware-k3s&#x2F;)
