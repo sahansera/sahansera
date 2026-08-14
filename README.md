@@ -27,9 +27,9 @@ I've been working in the industry as a software engineer and a consultant for mo
 
 ## 📙 Recent Blog Posts
 <!--START_SECTION:feed-->
+* [When Three Kubernetes Pods Try to Run One Database Migration](https:&#x2F;&#x2F;www.sahansera.dev&#x2F;when-three-kubernetes-pods-try-to-run-one-database-migration&#x2F;)
 * [Scaling an Agentic Coding SDK: What Concurrency Actually Costs](https:&#x2F;&#x2F;www.sahansera.dev&#x2F;scaling-an-agentic-coding-sdk-what-concurrency-actually-costs&#x2F;)
 * [Build a Safe Repository Maintenance Agent with GitHub Copilot and Microsoft Agent Framework in .NET](https:&#x2F;&#x2F;www.sahansera.dev&#x2F;safe-repository-maintenance-agent-dotnet&#x2F;)
 * [Build a Safe Repository Maintenance Agent with GitHub Copilot and Microsoft Agent Framework in Python](https:&#x2F;&#x2F;www.sahansera.dev&#x2F;safe-repository-maintenance-agent-python&#x2F;)
 * [What I Learned Growing an Engineering Blog from 0 to 463,000 Pageviews](https:&#x2F;&#x2F;www.sahansera.dev&#x2F;what-i-learned-growing-engineering-blog-463000-pageviews&#x2F;)
-* [Replacing a Critical Data Path Without a Flag Day](https:&#x2F;&#x2F;www.sahansera.dev&#x2F;replacing-critical-data-path-without-flag-day&#x2F;)
 <!--END_SECTION:feed-->
