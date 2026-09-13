@@ -27,9 +27,9 @@ I've been working in the industry as a software engineer and a consultant for mo
 
 ## 📙 Recent Blog Posts
 <!--START_SECTION:feed-->
+* [How to find LM Studio plugins and MCP servers](https:&#x2F;&#x2F;sahansera.dev&#x2F;finding-lm-studio-plugins&#x2F;)
 * [When Cached State Isn&#39;t Enough: Adding PostgreSQL with .NET Aspire](https:&#x2F;&#x2F;sahansera.dev&#x2F;when-cached-state-isnt-enough-postgresql-aspire&#x2F;)
 * [When IMemoryCache Stops Scaling: Moving to Redis with .NET Aspire](https:&#x2F;&#x2F;sahansera.dev&#x2F;when-imemorycache-stops-scaling-redis-aspire&#x2F;)
 * [Replacing Sharp with WASM: How a Hidden SVG Dependency Broke Our Rendering Pipeline](https:&#x2F;&#x2F;sahansera.dev&#x2F;replacing-sharp-with-wasm-hidden-svg-dependency&#x2F;)
 * [When Three Kubernetes Pods Try to Run One Database Migration](https:&#x2F;&#x2F;sahansera.dev&#x2F;when-three-kubernetes-pods-try-to-run-one-database-migration&#x2F;)
-* [Scaling an Agentic Coding SDK: What Concurrency Actually Costs](https:&#x2F;&#x2F;sahansera.dev&#x2F;scaling-an-agentic-coding-sdk-what-concurrency-actually-costs&#x2F;)
 <!--END_SECTION:feed-->
